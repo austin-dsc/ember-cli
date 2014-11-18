@@ -6,3 +6,4 @@ _site
 common-tmp
 *.tgz
 docs/build
+.idea
